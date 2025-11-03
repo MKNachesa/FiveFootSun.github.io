@@ -58,7 +58,7 @@ education:
     institution: University of Amsterdam, RTL Netherlands
     icon: ""
     date_start: 2023-08-01
-    date_end: ongoing
+    date_end: ''
     summary: |
       Thesis on _Trustworthy Automatic Subtitles_. Supervised by Dr. Vlad Niculae.
     # button:
