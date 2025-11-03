@@ -67,8 +67,8 @@ education:
   - area: MA Language Technology
     institution: Uppsala University
     icon: ""
-    date_start: 2021-09
-    date_end: 2023-08
+    date_start: 2021-09-01
+    date_end: 2023-08-31
     summary: |
       # GPA: 4.0/4.0
       button:
@@ -78,8 +78,8 @@ education:
   - area: BA Linguistics
     institution: Leiden University
     icon: ""
-    date_start: 2017-09
-    date_end: 2021-08
+    date_start: 2017-09-01
+    date_end: 2021-08-31
     summary: |
       # GPA: 3.9/4.0
       Extracurricular classes in programming, mathematics, and translation. Chair of academic committee of study association.
